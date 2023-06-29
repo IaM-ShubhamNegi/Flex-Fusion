@@ -2,6 +2,7 @@
 
 Welcome to the Flex Fusion project! This is a web application designed and developed to offer gym enthusiasts a wide range of exercises to choose from. As a junior developer, this project showcases my skills in frontend web development and my ability to integrate APIs and create user-friendly websites.
 
+![Project-gym](https://github.com/IaM-ShubhamNegi/Flex-Fusion/assets/123191025/d5114eb9-9ff9-4c60-83e4-6b4f81ac2c68)
 
 ## Features
 
